@@ -21,15 +21,15 @@
 #
 
 
-Use with wordpress
+Use with WordPress
 ------------------
-For installing the wordpress plugin copy it to the wordpress directory
+For installing the WordPress plugin copy it to the WordPress directory
 
   ./wp-content/plugins
 
 
-LinOTP communitcation client
-----------------------------
+LinOTP communication client
+---------------------------
 
-The file linotp-auth-class.php contains the class for communitcating to the LinOTP server.
+The file linotp-auth-class.php contains the class for communicating with the LinOTP server.
 It can be used with other PHP based applications.
