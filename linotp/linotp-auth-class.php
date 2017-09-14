@@ -65,5 +65,3 @@ class LinOTP {
 		return $ret;
 	}
 }
-?>
-
